@@ -1,0 +1,4 @@
+com\in28minutes\exception\ExceptionController.class
+com\in28minutes\login\WelcomeController.class
+com\in28minutes\login\LogoutController.class
+com\in28minutes\security\SecurityConfiguration.class
